@@ -8,7 +8,7 @@ Se trata de una aplicación Android que se ejecuta en el robot social **Buddy**,
 
 ## 🎮 Juegos
 
-### 🧩 Puzzle visual (Desafío de Figuras)
+### 🧩 Desafío de Figuras
 El usuario debe identificar visualmente la imagen correcta entre varias opciones, con niveles de dificultad y temporizador.
 
 ### ❌ Tres en Raya
