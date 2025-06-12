@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código fuente y los recursos asociados al proyecto **Desarrollo de Juegos Interactivos para el Robot Social Buddy: Desafío de Figuras y Tres en Raya**, desarrollado como Trabajo de Fin de Grado en Ingeniería Informática en la Universidad de La Laguna.
 
-Se trata de una aplicación Android que se ejecuta en el robot social **Buddy**, combinando funciones interactivas, expresivas y educativas mediante el uso del **BuddySDK**. Incluye dos juegos distintos orientados al aprendizaje y la atención visual.
+Se trata de dos aplicaciones Android que se ejecutan en el robot social **Buddy**, combinando funciones interactivas, expresivas y educativas mediante el uso del **BuddySDK**.
 
 ---
 
